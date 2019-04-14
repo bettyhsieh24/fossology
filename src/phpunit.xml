@@ -9,9 +9,6 @@
   <php>
     <env name="SYSCONFDIR" value="src/lib/php/tests/sysconfigDirTest"/>
   </php>
-  <logging>
-    <log type="coverage-clover" target="../clover.xml"/>
-  </logging>
 
   <testsuites>
     <testsuite name="Fossology PhpUnit Test Suite">
